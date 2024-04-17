@@ -24,11 +24,11 @@
 .headerTitle {
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
-    line-height: 28px;
+    font-size: 28px;
+    line-height: 38px;
     display: flex;
     align-items: flex-end;
-    color: #242424;
+    color: #0069ae;
 }
 
 .headerIcon {
